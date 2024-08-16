@@ -1,0 +1,8 @@
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\PredictionService\obj\Release\netcoreapp3.1\PubTmp\Out\PredictionService.exe
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\PredictionService\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\PredictionService\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\PredictionService\obj\Release\netcoreapp3.1\PubTmp\Out\PredictionService.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\PredictionService\obj\Release\netcoreapp3.1\PubTmp\Out\PredictionService.deps.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\PredictionService\obj\Release\netcoreapp3.1\PubTmp\Out\PredictionService.runtimeconfig.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\PredictionService\obj\Release\netcoreapp3.1\PubTmp\Out\PredictionService.pdb
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\PredictionService\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll

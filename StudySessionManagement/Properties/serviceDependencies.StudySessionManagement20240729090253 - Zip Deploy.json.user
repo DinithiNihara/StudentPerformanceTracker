@@ -1,0 +1,25 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "StudySessionManagement20240729090253.resourceName": {
+      "Name": "StudySessionManagement20240729090253.resourceName",
+      "Type": null,
+      "Value": "StudySessionManagement20240729090253"
+    },
+    "StudySessionManagement20240729090253.resourceGroupLocation": {
+      "Name": "StudySessionManagement20240729090253.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    },
+    "StudySessionManagement20240729090253.subscriptionId": {
+      "Name": "StudySessionManagement20240729090253.subscriptionId",
+      "Type": "subscription",
+      "Value": "ca1b570f-6a06-4d87-8fa1-ff260c50f767"
+    },
+    "StudySessionManagement20240729090253.resourceGroupName": {
+      "Name": "StudySessionManagement20240729090253.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-EUS"
+    }
+  }
+}

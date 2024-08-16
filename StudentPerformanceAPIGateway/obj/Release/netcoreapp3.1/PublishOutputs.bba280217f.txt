@@ -1,0 +1,17 @@
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\StudentPerformanceAPIGateway.exe
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\Ocelot.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\StudentPerformanceAPIGateway.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\StudentPerformanceAPIGateway.deps.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\StudentPerformanceAPIGateway.runtimeconfig.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\StudentPerformanceAPIGateway.pdb
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\FluentValidation.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Release\netcoreapp3.1\PubTmp\Out\Ocelot.dll

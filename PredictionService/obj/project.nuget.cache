@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfbWZiTsHggAmsXk55xU7awU5z0s38K4REwb4xmlPvDjYJ8nbuA6mcOCOiI9we/DCdDhDuk+HJJwf0J5kArIWw==",
+  "success": true,
+  "projectFilePath": "D:\\msc\\MScASE\\CW2\\local\\New folder\\StudentPerformanceTracker\\PredictionService\\PredictionService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nihar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

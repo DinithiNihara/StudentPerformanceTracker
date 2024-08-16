@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20240725172221_AddStudySessionEntity.cs" />
+    <Compile Remove="Migrations\20240725172221_AddStudySessionEntity.Designer.cs" />
+    <Compile Remove="Migrations\20240726182737_StudentEntity.cs" />
+    <Compile Remove="Migrations\20240726182737_StudentEntity.Designer.cs" />
+    <Compile Remove="Migrations\20240726183237_StudentEntity.cs" />
+    <Compile Remove="Migrations\20240726183237_StudentEntity.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetEnv" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="System.Text.Json" Version="8.0.4" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,148 @@
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.exe
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.deps.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.runtimeconfig.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.runtimeconfig.dev.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.pdb
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.csproj.AssemblyReference.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.AssemblyInfoInputs.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.AssemblyInfo.cs
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.csproj.CoreCompileInputs.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.sourcelink.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.RazorTargetAssemblyInfo.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\StudentPerformanceAPIGateway.StaticWebAssets.Manifest.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\StudentPerformanceAPIGateway.StaticWebAssets.Pack.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentPerformanceAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentP.2E4894ED.Up2Date
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.pdb
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.genruntimeconfig.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.exe
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.deps.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.runtimeconfig.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.runtimeconfig.dev.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.pdb
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.csproj.AssemblyReference.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.AssemblyInfoInputs.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.AssemblyInfo.cs
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.csproj.CoreCompileInputs.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.sourcelink.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.RazorTargetAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\StudentPerformanceAPIGateway.StaticWebAssets.Manifest.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\StudentPerformanceAPIGateway.StaticWebAssets.Pack.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentPerformanceAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentP.2E4894ED.Up2Date
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.pdb
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.genruntimeconfig.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.exe
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.deps.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.runtimeconfig.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.runtimeconfig.dev.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.pdb
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.csproj.AssemblyReference.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.AssemblyInfoInputs.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.AssemblyInfo.cs
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.csproj.CoreCompileInputs.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.sourcelink.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.RazorTargetAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\StudentPerformanceAPIGateway.StaticWebAssets.Manifest.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\StudentPerformanceAPIGateway.StaticWebAssets.Pack.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentPerformanceAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentP.2E4894ED.Up2Date
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.pdb
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.genruntimeconfig.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.exe
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.deps.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.runtimeconfig.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.runtimeconfig.dev.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.pdb
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.csproj.AssemblyReference.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.AssemblyInfoInputs.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.AssemblyInfo.cs
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.csproj.CoreCompileInputs.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.sourcelink.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.RazorTargetAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\StudentPerformanceAPIGateway.StaticWebAssets.Manifest.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\StudentPerformanceAPIGateway.StaticWebAssets.Pack.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentPerformanceAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentPerformanceAPIGateway.props
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentP.2E4894ED.Up2Date
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.pdb
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudentPerformanceAPIGateway\obj\Debug\netcoreapp3.1\StudentPerformanceAPIGateway.genruntimeconfig.cache

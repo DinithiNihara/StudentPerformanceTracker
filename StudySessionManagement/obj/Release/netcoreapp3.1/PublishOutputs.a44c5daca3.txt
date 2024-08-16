@@ -1,0 +1,8 @@
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Release\netcoreapp3.1\PubTmp\Out\StudySessionManagement.exe
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Release\netcoreapp3.1\PubTmp\Out\StudySessionManagement.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Release\netcoreapp3.1\PubTmp\Out\StudySessionManagement.deps.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Release\netcoreapp3.1\PubTmp\Out\StudySessionManagement.runtimeconfig.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Release\netcoreapp3.1\PubTmp\Out\StudySessionManagement.pdb
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll

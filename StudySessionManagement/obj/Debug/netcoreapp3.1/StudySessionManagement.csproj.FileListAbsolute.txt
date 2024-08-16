@@ -1,0 +1,108 @@
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.exe
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.deps.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.runtimeconfig.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.runtimeconfig.dev.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.pdb
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.csproj.AssemblyReference.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.AssemblyInfoInputs.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.AssemblyInfo.cs
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.csproj.CoreCompileInputs.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.sourcelink.json
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.RazorTargetAssemblyInfo.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudySessionManagement.StaticWebAssets.Manifest.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudySessionManagement.StaticWebAssets.Pack.cache
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudySessionManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudySessionManagement.props
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudySessionManagement.props
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudySessionManagement.props
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySes.6EC2726C.Up2Date
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.dll
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.pdb
+D:\msc\MScASE\CW2\attempt 1\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.genruntimeconfig.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.exe
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.deps.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.runtimeconfig.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.runtimeconfig.dev.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.pdb
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.csproj.AssemblyReference.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.AssemblyInfoInputs.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.AssemblyInfo.cs
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.csproj.CoreCompileInputs.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.sourcelink.json
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.RazorTargetAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudySessionManagement.StaticWebAssets.Manifest.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudySessionManagement.StaticWebAssets.Pack.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudySessionManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudySessionManagement.props
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudySessionManagement.props
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudySessionManagement.props
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySes.6EC2726C.Up2Date
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.pdb
+D:\msc\MScASE\CW2\local\StudentPerformanceSystem\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.genruntimeconfig.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.exe
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.deps.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.runtimeconfig.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.runtimeconfig.dev.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.pdb
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.csproj.AssemblyReference.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.AssemblyInfoInputs.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.AssemblyInfo.cs
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.csproj.CoreCompileInputs.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.sourcelink.json
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.RazorTargetAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudySessionManagement.StaticWebAssets.Manifest.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudySessionManagement.StaticWebAssets.Pack.cache
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudySessionManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudySessionManagement.props
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudySessionManagement.props
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudySessionManagement.props
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySes.6EC2726C.Up2Date
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.dll
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.pdb
+D:\msc\MScASE\CW2\local\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.genruntimeconfig.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.exe
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.deps.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.runtimeconfig.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.runtimeconfig.dev.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\StudySessionManagement.pdb
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.csproj.AssemblyReference.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.AssemblyInfoInputs.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.AssemblyInfo.cs
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.csproj.CoreCompileInputs.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.sourcelink.json
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.RazorTargetAssemblyInfo.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudySessionManagement.StaticWebAssets.Manifest.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudySessionManagement.StaticWebAssets.Pack.cache
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudySessionManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudySessionManagement.props
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudySessionManagement.props
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudySessionManagement.props
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySes.6EC2726C.Up2Date
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.dll
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.pdb
+D:\msc\MScASE\CW2\local\New folder\StudentPerformanceTracker\StudySessionManagement\obj\Debug\netcoreapp3.1\StudySessionManagement.genruntimeconfig.cache
